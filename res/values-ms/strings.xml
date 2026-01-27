@@ -11,8 +11,8 @@
     <string name="DEFAULTS">"Lalai"</string>
     <string name="WEEKLY">"Mingguan"</string>
     <string name="DAILY">"Keharian"</string>
-    <string name="Server_">"Server:"</string>
-    <string name="Game_Mode_">"Mod Permainan:"</string>
+    <string name="Server_">"Server.:"</string>
+    <string name="Game_Mode_">"Mod Permainan.:"</string>
     <string name="Show_Names">"Tunjuk Nama"</string>
     <string name="Show_Avatars">"Tunjuk Kulit"</string>
     <string name="PLAY">"PLAY"</string>
