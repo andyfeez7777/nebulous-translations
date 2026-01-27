@@ -27,7 +27,7 @@
     <string name="Are_You_Sure_">"Adakah kamu pasti?"</string>
     <string name="Yes">"Ya"</string>
     <string name="No">"Tidak"</string>
-    <string name="WAIT">"TUNGGU…"</string>
+    <string name="WAIT">"TUNGGU"</string>
     <string name="Must_Specify_Name_">"Perlu meletak nama."</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Kedudukan kandungan aplikasi mungkin berubah apabila mencari kumpulan."</string>
@@ -35,8 +35,8 @@
     <string name="_Rank_">" Pangkat "</string>
     <string name="_Alias_">" Alias "</string>
     <string name="_Score_">" Skor "</string>
-    <string name="Score__">"Skor: "</string>
-    <string name="Recombine_">"Bergabung: "</string>
+    <string name="Score__">"Skor:"</string>
+    <string name="Recombine_">"Bergabung:"</string>
     <string name="WINNER_">"PEMENANG:"</string>
     <string name="IDLE">"TERBIAR"</string>
     <string name="Name_Invalid_">"Nama tidak sah."</string>
@@ -117,8 +117,8 @@
     <string name="Public">"Awam"</string>
     <string name="Bot">"Bot"</string>
     <string name="You">"Kamu"</string>
-    <string name="This_player_is_a_bot">"Pemain ini bot."</string>
-    <string name="This_player_is_not_signed_in">"Pemain ini tidak tandai masuk."</string>
+    <string name="This_player_is_a_bot">"Pemain ini adalah bot"</string>
+    <string name="This_player_is_not_signed_in">"Pemain ini tidak tandai masuk"</string>
 
     <string name="Online">"Online"</string>
     <string name="Unknown">"tidak dikenali"</string>
@@ -251,8 +251,8 @@
 
     <string name="Specify_private_game_name">"Nyatakan nama permainan swasta"</string>
     <string name="In_Game_Chat">"Berbual Dalam Permainan"</string>
-    <string name="My_Status_">"Status Saya:"</string>
-    <string name="Game_Size_">"Saiz Permainan:"</string>
+    <string name="My_Status_">"Status Saya.:"</string>
+    <string name="Game_Size_">"Saiz Permainan.:"</string>
 
     <string name="Server_Restart_">"Server Bermulai Semula:"</string>
     <string name="GOAL_">"GOL!"</string>
@@ -295,7 +295,7 @@
     <string name="Other_user_is_not_a_member_of_your_clan_">"Pengguna itu bukan ahli klan kamu."</string>
     <string name="_You_can_t_be_your_own_friend_">"Kamu tidak boleh menjadi kawan kamu sendiri."</string>
     <string name="A_clan_with_that_name_already_exists_">"Klan dengan nama itu sudah dipunyai."</string>
-    <string name="Duration_">"Jangka Masa:"</string>
+    <string name="Duration_">"Jangka Masa.:"</string>
 
     <string name="FFA_Time_Domination">"Dominasi FFA Time"</string>
     <string name="Teams_Time_Domination">"Dominasi Pasukan Masa"</string>
