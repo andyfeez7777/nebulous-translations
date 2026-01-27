@@ -1,13 +1,13 @@
 <resources>
 
     <string name="Players">"Pemain"</string>
-    <string name="Control_">"Kawalan:"</string>
+    <string name="Control_">"Kawalan.:"</string>
     <string name="CLOSE">"Keluar"</string>
-    <string name="Stick_Size_">"Saiz Stick:"</string>
-    <string name="Stick_Margin_">"Margin Stick:"</string>
-    <string name="Button_Size_">"Saiz Butang:"</string>
-    <string name="Button_Margin_">"Margin Butang:"</string>
-    <string name="Buttons_">"Butang:"</string>
+    <string name="Stick_Size_">"Saiz Stick.:"</string>
+    <string name="Stick_Margin_">"Margin Stick.:"</string>
+    <string name="Button_Size_">"Saiz Butang.:"</string>
+    <string name="Button_Margin_">"Margin Butang.:"</string>
+    <string name="Buttons_">"Butang.:"</string>
     <string name="DEFAULTS">"Lalai"</string>
     <string name="WEEKLY">"Mingguan"</string>
     <string name="DAILY">"Keharian"</string>
